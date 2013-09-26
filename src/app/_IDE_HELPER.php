@@ -1,0 +1,30 @@
+<?php
+
+class Auth extends System\Auth { }
+class Benchmark extends System\Benchmark { }
+class Cache extends System\Cache { }
+class Config extends System\Config { }
+class Cookie extends System\Cookie { }
+class Crypt extends System\Crypt { }
+class DB extends System\DB { }
+class Error extends System\Error { }
+class File extends System\File { }
+class Filter extends System\Filter { }
+class Form extends System\Form { }
+class Hash extends System\Hash { }
+class HTML extends System\HTML { }
+class Inflector extends System\Inflector { }
+class Input extends System\Input { }
+class Lang extends System\Lang { }
+class Log extends System\Log { }
+class Memcached extends System\Memcached { }
+class Redirect extends System\Redirect { }
+class Request extends System\Request { }
+class Response extends System\Response { }
+class Route extends System\Route { }
+class Router extends System\Router { }
+class Session extends System\Session { }
+class Str extends System\Str { }
+class Text extends System\Text { }
+class URL extends System\URL { }
+class View extends System\View { }
