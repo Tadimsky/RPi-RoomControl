@@ -17,7 +17,7 @@ class TestController extends BaseController {
 
 	public function showWelcome()
 	{
-		return View::make("users");
+		return View::make("index");
     }
 
 }
